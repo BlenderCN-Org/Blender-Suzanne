@@ -1,0 +1,4 @@
+ModernGL
+ModernGL.ext.obj
+Pillow
+Pyrr
